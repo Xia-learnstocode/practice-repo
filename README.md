@@ -1,6 +1,6 @@
 # Practice Repository
 
-This is a practice repository where I get better at GitHub.
+This is a practice repository where I get better at Git.
 
 **Hello World!**
 
